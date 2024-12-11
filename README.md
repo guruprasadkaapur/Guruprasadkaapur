@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Guruprasadkaapur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Guruprasadkaapur/Guruprasadkaapur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi there! I’m Guruprasad Kaapur.  
+- 👀 Passionate about building innovative software solutions and exploring AI-driven technologies.  
+- 🌱 Currently diving deep into AI research, React.js, and backend development with Spring Boot.  
+- 💞 Excited to collaborate on impactful projects that solve real-world problems.  
+- 📫 You can reach me at kapruguuru123@gmail.com.  
+- 😄 Pronouns: He/Him.  
+- ⚡ Fun fact: When I’m not coding, you can find me brainstorming creative ideas or experimenting with new tech!
