@@ -1,6 +1,6 @@
 - 👋 Hi there! I’m Guruprasad Kaapur.  
 - 👀 Passionate about building innovative software solutions and exploring AI-driven technologies.  
-- 🌱 Currently diving deep into AI research, React.js, and backend development with Spring Boot.  
+- 🌱 Currently diving deep into AI research, React.js, and backend development with Node.js.  
 - 💞 Excited to collaborate on impactful projects that solve real-world problems.  
 - 📫 You can reach me at kapruguuru123@gmail.com.  
 - 😄 Pronouns: He/Him.  
